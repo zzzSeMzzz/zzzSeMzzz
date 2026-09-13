@@ -37,6 +37,6 @@ High-performance, pixel-perfect, and offline-first mobile applications.
 
 ### 🤝 Let's Connect & Build Together
 *   💬 **Telegram:** [@zzzsemzzz](https://t.me/zzzsemzzz)
-*   💼 **Freelance Profile:** [My Portfolio on FL.ru](https://fl.ru)
+*   💼 **Freelance Profile:** [My Portfolio on FL.ru](https://fl.ru/users/cornholio2/portfolio/)
 
 > *"The best code is no code at all. The second best is an autonomous agent doing it for you."*
